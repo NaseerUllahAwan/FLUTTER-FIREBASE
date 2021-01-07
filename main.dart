@@ -1,4 +1,4 @@
-Sir, I have removed the 'dark theme and light theme' and 'add to favourite' and 'bbottomnavigationbar' functionality from the wallpaper app.
+Sir, I have removed the 'dark and light theme' and 'add to favourite' and 'bottomnavigationbar' functionality from the wallpaper app.
   I only want to show both categories wallpapers and all images on a single page. The main.dart file is causing issues.
 
 
