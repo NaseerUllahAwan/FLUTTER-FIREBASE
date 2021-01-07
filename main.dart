@@ -1,3 +1,8 @@
+Sir, I have removed the 'dark theme and light theme' and 'add to favourite' functionality from the wallpaper app.
+  I only want to show both categories wallpapers and all images on a single page. The main.dart file is causing issues.
+
+
+
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
